@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "EDO-BaGv8/0.8": {
+        "runtime": {
+          "EDO-BaGv8.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EDO-BaGv8/0.8": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
