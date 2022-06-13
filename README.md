@@ -12,14 +12,21 @@ I originally created this application to help me while scanning Biological’s a
 My first though was to create a program that could hook into the API or pull the information from the journal files. I quickly concluded that with my skills in coding that I would have no chance, so I started working in VB to see what I could do.
 
 V.8.1 - bug fix
+
 ⦁ Fixed spelling mistakes and incorrect picture rotation for Concha
 
 V.8 Release information
+
 ⦁ Updated and added more pictures to show the different Species for a specific Genus 
+
 ⦁ Tweaked some code to facilitate picture rotation, once you select a Sample
+
 ⦁ Added Genus name and estimated values for all Biological samples, and sync'd them with the correct pictures
+
 ⦁ Re-positioned the sample display screen, and moved the sample distance notification so that the estimated values for each sample can be displayed
+
 ⦁ Added ability to click on sample picture to pause rotation of sample pictures, re-clicking the button of the sample will restart the rotation cycle again
+
 ⦁ Renamed all of the picture files (this allows the rotation script to run smoothly)
 
 
